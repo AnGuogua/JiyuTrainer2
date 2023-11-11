@@ -1,0 +1,407 @@
+﻿  amigaos.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\amigaos.c(78,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  asyn-ares.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\asyn-ares.c(692,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  asyn-thread.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\asyn-thread.c(57,1): warning C4005: “RESOLVER_ENOMEM”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\asyn-thread.c(55,1): message : 参见“RESOLVER_ENOMEM”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\asyn-thread.c(699,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  base64.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\base64.c(310,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  conncache.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\conncache.c(365,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  connect.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\connect.c(92,1): warning C4005: “KEEPALIVE_FACTOR”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\connect.c(90,1): message : 参见“KEEPALIVE_FACTOR”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\connect.c(1379,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  content_encoding.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\content_encoding.c(436,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  cookie.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\cookie.c(1369,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_addrinfo.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_addrinfo.c(73,1): warning C4005: “vqualifier”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_addrinfo.c(71,1): message : 参见“vqualifier”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_addrinfo.c(559,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_des.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_des.c(64,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_endian.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_endian.c(237,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_fnmatch.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_fnmatch.c(425,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_gethostname.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_gethostname.c(101,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_gssapi.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_gssapi.c(121,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_memrchr.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_memrchr.c(59,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_multibyte.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_multibyte.c(83,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_ntlm.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm.c(59,1): warning C4005: “DEBUG_OUT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm.c(57,1): message : 参见“DEBUG_OUT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm.c(233,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_ntlm_core.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_core.c(64,1): warning C4005: “DESKEYARG”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_core.c(62,1): message : 参见“DESKEYARG”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_core.c(65,1): warning C4005: “DESKEY”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_core.c(61,1): message : 参见“DESKEY”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_core.c(85,1): warning C4005: “MD5_DIGEST_LENGTH”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_core.c(76,1): message : 参见“MD5_DIGEST_LENGTH”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_core.c(766,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_ntlm_msgs.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_msgs.c(147,1): warning C4005: “DEBUG_OUT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_msgs.c(69,1): message : 参见“DEBUG_OUT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_msgs.c(380,1): warning C4005: “NTLM2FLAG”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_msgs.c(378,1): message : 参见“NTLM2FLAG”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_msgs.c(818,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_ntlm_wb.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_wb.c(63,1): warning C4005: “DEBUG_OUT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_wb.c(61,1): message : 参见“DEBUG_OUT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_wb.c(71,1): warning C4005: “sclose_nolog”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_wb.c(69,1): message : 参见“sclose_nolog”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_wb.c(73,1): warning C4005: “sclose_nolog”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_wb.c(71,1): message : 参见“sclose_nolog”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_ntlm_wb.c(432,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在编译...
+  curl_rtmp.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_rtmp.c(43,1): warning C4005: “SET_RCVTIMEO”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_rtmp.c(41,1): message : 参见“SET_RCVTIMEO”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_rtmp.c(307,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_sasl.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_sasl.c(1670,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_sasl_gssapi.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_sasl_gssapi.c(393,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_sasl_sspi.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_sasl_sspi.c(1282,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_sspi.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_sspi.c(44,1): warning C4005: “SECURITYENTRYPOINT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_sspi.c(42,1): message : 参见“SECURITYENTRYPOINT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_sspi.c(47,1): warning C4005: “SECURITYENTRYPOINT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_sspi.c(44,1): message : 参见“SECURITYENTRYPOINT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_sspi.c(253,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  curl_threads.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\curl_threads.c(137,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  dict.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\dict.c(280,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  dotdot.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\dotdot.c(171,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  easy.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\easy.c(181,1): warning C4005: “system_strdup”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\easy.c(179,1): message : 参见“system_strdup”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\easy.c(183,1): warning C4005: “system_strdup”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\easy.c(181,1): message : 参见“system_strdup”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\easy.c(1131,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  escape.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\escape.c(232,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  file.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\file.c(78,1): warning C4005: “open_readonly”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\file.c(76,1): message : 参见“open_readonly”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\file.c(295,1): warning C4005: “DIRSEP”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\file.c(293,1): message : 参见“DIRSEP”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\file.c(329,1): warning C4005: “MODE_DEFAULT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\file.c(327,1): message : 参见“MODE_DEFAULT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\file.c(587,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  fileinfo.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\fileinfo.c(51,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  formdata.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\formdata.c(800,1): warning C4005: “filesize”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\formdata.c(797,1): message : 参见“filesize”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\formdata.c(1377,1): warning C4005: “fopen_read”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\formdata.c(1367,1): message : 参见“fopen_read”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\formdata.c(1552,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  ftp.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ftp.c(106,1): warning C4005: “state”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ftp.c(101,1): message : 参见“state”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ftp.c(4599,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  ftplistparser.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ftplistparser.c(1049,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  getenv.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\getenv.c(54,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  getinfo.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\getinfo.c(383,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  gopher.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\gopher.c(166,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  hash.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\hash.c(369,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  hmac.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\hmac.c(130,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在编译...
+  hostasyn.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\hostasyn.c(154,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  hostcheck.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\hostcheck.c(148,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  hostip.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\hostip.c(881,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  hostip4.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\hostip4.c(308,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  hostip6.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\hostip6.c(222,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  hostsyn.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\hostsyn.c(108,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  http.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\http.c(3269,1): warning C4005: “HEADER1”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\http.c(3251,1): message : 参见“HEADER1”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\http.c(3753,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  http2.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\http2.c(1344,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  http_chunks.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\http_chunks.c(383,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  http_digest.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\http_digest.c(180,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  http_negotiate.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\http_negotiate.c(211,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  http_negotiate_sspi.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\http_negotiate_sspi.c(301,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  http_proxy.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\http_proxy.c(591,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  idn_win32.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\idn_win32.c(109,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  if2ip.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\if2ip.c(272,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  imap.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\imap.c(2143,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  inet_ntop.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\inet_ntop.c(199,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  inet_pton.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\inet_pton.c(235,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  krb5.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\krb5.c(333,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  ldap.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ldap.c(130,1): warning C4005: “LDAP_TRACE”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ldap.c(126,1): message : 参见“LDAP_TRACE”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ldap.c(1014,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在编译...
+  llist.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\llist.c(213,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  md4.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\md4.c(101,1): warning C4005: “SET”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\md4.c(92,1): message : 参见“SET”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\md4.c(103,1): warning C4005: “GET”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\md4.c(94,1): message : 参见“GET”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\md4.c(305,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  md5.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\md5.c(270,1): warning C4005: “SET”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\md5.c(261,1): message : 参见“SET”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\md5.c(272,1): warning C4005: “GET”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\md5.c(263,1): message : 参见“GET”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\md5.c(561,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  memdebug.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\memdebug.c(77,1): warning C4005: “mt_malloc_fill”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\memdebug.c(75,1): message : 参见“mt_malloc_fill”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\memdebug.c(83,1): warning C4005: “mt_free_fill”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\memdebug.c(81,1): message : 参见“mt_free_fill”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\memdebug.c(490,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  mprintf.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\mprintf.c(67,1): warning C4005: “LONG_LONG_TYPE”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\mprintf.c(63,1): message : 参见“LONG_LONG_TYPE”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\mprintf.c(96,1): warning C4005: “mp_intmax_t”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\mprintf.c(93,1): message : 参见“mp_intmax_t”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\mprintf.c(97,1): warning C4005: “mp_uintmax_t”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\mprintf.c(94,1): message : 参见“mp_uintmax_t”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\mprintf.c(1143,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  multi.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\multi.c(146,1): warning C4005: “multistate”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\multi.c(144,1): message : 参见“multistate”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\multi.c(2804,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  netrc.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\netrc.c(204,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  non-ascii.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\non-ascii.c(339,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  nonblock.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\nonblock.c(92,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  nwlib.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\nwlib.c(326,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  nwos.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\nwos.c(89,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  openldap.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\openldap.c(685,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  parsedate.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\parsedate.c(584,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  pingpong.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\pingpong.c(508,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  pipeline.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\pipeline.c(434,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  pop3.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\pop3.c(1602,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  progress.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\progress.c(493,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  rawstr.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\rawstr.c(143,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  rtsp.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\rtsp.c(807,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  security.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\security.c(581,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在编译...
+  select.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\select.c(579,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  sendf.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\sendf.c(711,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  share.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\share.c(248,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  slist.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\slist.c(144,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  smb.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\smb.c(977,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  smtp.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\smtp.c(1672,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  socks.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\socks.c(756,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  socks_gssapi.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\socks_gssapi.c(523,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  socks_sspi.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\socks_sspi.c(602,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  speedcheck.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\speedcheck.c(75,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  splay.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\splay.c(289,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  ssh.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ssh.c(101,1): warning C4005: “PATH_MAX”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ssh.c(93,1): message : 参见“PATH_MAX”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ssh.c(490,1): warning C4005: “SFTP_SEEK”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ssh.c(488,1): message : 参见“SFTP_SEEK”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ssh.c(501,1): warning C4005: “SCP_SEND”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ssh.c(498,1): message : 参见“SCP_SEND”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\ssh.c(3342,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  strdup.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\strdup.c(74,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  strequal.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\strequal.c(80,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  strerror.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\strerror.c(1137,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  strtok.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\strtok.c(67,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  strtoofft.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\strtoofft.c(189,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  telnet.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\telnet.c(1676,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  tftp.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\tftp.c(1377,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  timeval.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\timeval.c(143,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在编译...
+  transfer.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\transfer.c(2003,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  url.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\url.c(6239,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  version.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\version.c(60,1): warning C4005: “CURL_LIBSSH2_VERSION”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\version.c(57,1): message : 参见“CURL_LIBSSH2_VERSION”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\version.c(363,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  axtls.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\axtls.c(691,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  cyassl.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\cyassl.c(112,1): warning C4005: “use_sni”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\cyassl.c(110,1): message : 参见“use_sni”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\cyassl.c(774,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  darwinssl.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(78,1): warning C4005: “CURL_BUILD_IOS”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(58,1): message : 参见“CURL_BUILD_IOS”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(79,1): warning C4005: “CURL_BUILD_IOS_7”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(59,1): message : 参见“CURL_BUILD_IOS_7”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(80,1): warning C4005: “CURL_BUILD_MAC”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(60,1): message : 参见“CURL_BUILD_MAC”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(81,1): warning C4005: “CURL_BUILD_MAC_10_5”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(62,1): message : 参见“CURL_BUILD_MAC_10_5”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(82,1): warning C4005: “CURL_BUILD_MAC_10_6”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(63,1): message : 参见“CURL_BUILD_MAC_10_6”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(83,1): warning C4005: “CURL_BUILD_MAC_10_7”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(64,1): message : 参见“CURL_BUILD_MAC_10_7”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(84,1): warning C4005: “CURL_BUILD_MAC_10_8”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(65,1): message : 参见“CURL_BUILD_MAC_10_8”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(85,1): warning C4005: “CURL_SUPPORT_MAC_10_5”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(71,1): message : 参见“CURL_SUPPORT_MAC_10_5”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(86,1): warning C4005: “CURL_SUPPORT_MAC_10_6”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(72,1): message : 参见“CURL_SUPPORT_MAC_10_6”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(87,1): warning C4005: “CURL_SUPPORT_MAC_10_7”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(73,1): message : 参见“CURL_SUPPORT_MAC_10_7”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(88,1): warning C4005: “CURL_SUPPORT_MAC_10_8”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(74,1): message : 参见“CURL_SUPPORT_MAC_10_8”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(89,1): warning C4005: “CURL_SUPPORT_MAC_10_9”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(75,1): message : 参见“CURL_SUPPORT_MAC_10_9”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\darwinssl.c(2485,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  gskit.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\gskit.c(1070,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  gtls.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\gtls.c(1052,1): warning C4005: “use_addr”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\gtls.c(1050,1): message : 参见“use_addr”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\gtls.c(1570,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  nss.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\nss.c(2062,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  openssl.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\openssl.c(108,1): warning C4005: “SSL_METHOD_QUAL”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\openssl.c(106,1): message : 参见“SSL_METHOD_QUAL”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\openssl.c(177,1): warning C4005: “seed_enough”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\openssl.c(171,1): message : 参见“seed_enough”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\openssl.c(1564,1): warning C4005: “use_sni”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\openssl.c(1562,1): message : 参见“use_sni”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\openssl.c(3189,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  polarssl.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\polarssl.c(754,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  polarssl_threadlock.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\polarssl_threadlock.c(154,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  schannel.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\schannel.c(1469,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  vtls.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\vtls\vtls.c(897,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  warnless.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(47,1): warning C4005: “CURL_MASK_SSHORT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(44,1): message : 参见“CURL_MASK_SSHORT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(48,1): warning C4005: “CURL_MASK_USHORT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(45,1): message : 参见“CURL_MASK_USHORT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(50,1): warning C4005: “CURL_MASK_SSHORT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(47,1): message : 参见“CURL_MASK_SSHORT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(51,1): warning C4005: “CURL_MASK_USHORT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(48,1): message : 参见“CURL_MASK_USHORT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(60,1): warning C4005: “CURL_MASK_SINT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(57,1): message : 参见“CURL_MASK_SINT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(61,1): warning C4005: “CURL_MASK_UINT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(58,1): message : 参见“CURL_MASK_UINT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(63,1): warning C4005: “CURL_MASK_SINT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(60,1): message : 参见“CURL_MASK_SINT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(64,1): warning C4005: “CURL_MASK_UINT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(61,1): message : 参见“CURL_MASK_UINT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(66,1): warning C4005: “CURL_MASK_SINT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(63,1): message : 参见“CURL_MASK_SINT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(67,1): warning C4005: “CURL_MASK_UINT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(64,1): message : 参见“CURL_MASK_UINT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(76,1): warning C4005: “CURL_MASK_SLONG”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(73,1): message : 参见“CURL_MASK_SLONG”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(77,1): warning C4005: “CURL_MASK_ULONG”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(74,1): message : 参见“CURL_MASK_ULONG”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(79,1): warning C4005: “CURL_MASK_SLONG”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(76,1): message : 参见“CURL_MASK_SLONG”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(80,1): warning C4005: “CURL_MASK_ULONG”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(77,1): message : 参见“CURL_MASK_ULONG”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(82,1): warning C4005: “CURL_MASK_SLONG”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(79,1): message : 参见“CURL_MASK_SLONG”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(83,1): warning C4005: “CURL_MASK_ULONG”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(80,1): message : 参见“CURL_MASK_ULONG”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(92,1): warning C4005: “CURL_MASK_SCOFFT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(89,1): message : 参见“CURL_MASK_SCOFFT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(93,1): warning C4005: “CURL_MASK_UCOFFT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(90,1): message : 参见“CURL_MASK_UCOFFT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(95,1): warning C4005: “CURL_MASK_SCOFFT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(92,1): message : 参见“CURL_MASK_SCOFFT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(96,1): warning C4005: “CURL_MASK_UCOFFT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(93,1): message : 参见“CURL_MASK_UCOFFT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(98,1): warning C4005: “CURL_MASK_SCOFFT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(95,1): message : 参见“CURL_MASK_SCOFFT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(99,1): warning C4005: “CURL_MASK_UCOFFT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(96,1): message : 参见“CURL_MASK_UCOFFT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(108,1): warning C4005: “CURL_MASK_SSIZE_T”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(105,1): message : 参见“CURL_MASK_SSIZE_T”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(109,1): warning C4005: “CURL_MASK_USIZE_T”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(106,1): message : 参见“CURL_MASK_USIZE_T”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(111,1): warning C4005: “CURL_MASK_SSIZE_T”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(108,1): message : 参见“CURL_MASK_SSIZE_T”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(112,1): warning C4005: “CURL_MASK_USIZE_T”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(109,1): message : 参见“CURL_MASK_USIZE_T”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(114,1): warning C4005: “CURL_MASK_SSIZE_T”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(111,1): message : 参见“CURL_MASK_SSIZE_T”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(115,1): warning C4005: “CURL_MASK_USIZE_T”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(112,1): message : 参见“CURL_MASK_USIZE_T”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\warnless.c(487,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  wildcard.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\wildcard.c(70,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  x509asn1.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerUpdater\curl\x509asn1.c(1189,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?

@@ -1,0 +1,12 @@
+﻿  cpu.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\cpu.c(94,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  disasm.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\disasm.c(8,1): warning C4005: “NDEBUG”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\disasm.c(8,1): message : 之前在命令行上声明的“NDEBUG”
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\disasm.c(123,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  disasm_x86.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\disasm_x86.c(23,1): warning C4005: “DISASM_OUTPUT”: 宏重定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\disasm_x86.c(21,1): message : 参见“DISASM_OUTPUT”的前一个定义
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\disasm_x86.c(4664,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  misc.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\misc.c(186,1): fatal  error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?

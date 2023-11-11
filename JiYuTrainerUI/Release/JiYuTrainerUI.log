@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  AttackWindow.cpp
+  BugReportWindow.cpp
+  CommonWindow.cpp
+  ConfigWindow.cpp
+  HelpWindow.cpp
+  JiYuTrainerUI.cpp
+  MainWindow.cpp
+  ScanIPWindow.cpp
+  UpdaterWindow.cpp
+  JiYuTrainerUI.vcxproj -> D:\信息技术\电脑工具\JiYuTrainer-master\Release\JiYuTrainerUI.lib

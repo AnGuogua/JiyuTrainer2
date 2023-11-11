@@ -1,0 +1,46 @@
+﻿  stdafx.cpp
+  CAutoLock.cpp
+  DriverLoader.cpp
+  JiYuTrainer.cpp
+  App.cpp
+  JyUdpAttack.cpp
+  KernelUtils.cpp
+  Logger.cpp
+  md5.cpp
+  MD5Utils.cpp
+  MemoryModule.cpp
+  MsgCenter.cpp
+  NetUtils.cpp
+  NtHlp.cpp
+  PathHelper.cpp
+  RegHlp.cpp
+  SettingHlp.cpp
+  StringHlp.cpp
+  StringSplit.cpp
+  SysHlp.cpp
+  TrainerWorker.cpp
+  正在编译...
+  TxtUtils.cpp
+  XUnzip.cpp
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XUnzip.cpp(1774,3): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XUnzip.cpp(1775,3): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XUnzip.cpp(1776,3): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XUnzip.cpp(1779,3): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XUnzip.cpp(1783,3): warning C5033: “register”不再为受支持的存储类
+  XZip.cpp
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XZip.cpp(1530,5): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XZip.cpp(1631,5): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XZip.cpp(1702,5): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XZip.cpp(1703,5): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XZip.cpp(1704,5): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XZip.cpp(1717,5): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XZip.cpp(1718,5): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XZip.cpp(1719,5): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XZip.cpp(1807,5): warning C5033: “register”不再为受支持的存储类
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\XZip.cpp(1976,5): warning C5033: “register”不再为受支持的存储类
+  正在生成代码
+  495 of 2911 functions (17.0%) were compiled, the rest were copied from previous compilation.
+    34 functions were new in current compilation
+    115 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  JiYuTrainer.vcxproj -> D:\信息技术\电脑工具\JiYuTrainer-master\Release\JiYuTrainer.exe

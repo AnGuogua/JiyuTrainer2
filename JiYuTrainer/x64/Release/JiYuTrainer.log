@@ -1,0 +1,131 @@
+﻿  CAutoLock.cpp
+  JiYuTrainer.cpp
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\JiYuTrainer.cpp(25,18): warning C4477: “fwprintf_s”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONG_PTR”
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\JiYuTrainer.cpp(25,18): message : 请考虑在格式字符串中使用“%llx”
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\JiYuTrainer.cpp(25,18): message : 请考虑在格式字符串中使用“%Ix”
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\JiYuTrainer.cpp(25,18): message : 请考虑在格式字符串中使用“%I64x”
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\JiYuTrainer.cpp(63,22): warning C4477: “swprintf_s”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONG_PTR”
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\JiYuTrainer.cpp(63,22): message : 请考虑在格式字符串中使用“%llx”
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\JiYuTrainer.cpp(63,22): message : 请考虑在格式字符串中使用“%Ix”
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\JiYuTrainer.cpp(63,22): message : 请考虑在格式字符串中使用“%I64x”
+  App.cpp
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\App.cpp(413,9): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\App.cpp(466,3): error C2065: “TrainerWorkerInternal”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\App.cpp(466,25): error C2146: 语法错误: 缺少“;”(在标识符“t”的前面)
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\App.cpp(466,25): error C2065: “t”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\App.cpp(467,7): error C2065: “t”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\App.cpp(517,18): error C2061: 语法错误: 标识符“TrainerWorkerInternal”
+  JyUdpAttack.cpp
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\JyUdpAttack.cpp(120,20): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\JyUdpAttack.cpp(208,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\JyUdpAttack.cpp(210,55): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\JyUdpAttack.cpp(234,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  TrainerWorker.cpp
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(19,23): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(19,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(19,25): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(19,48): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(19,71): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(30,1): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(30,24): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(31,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(30,24): error C2365: “TrainerWorkerInternal”: 重定义；以前的定义是“数据变量”
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(19,1): message : 参见“TrainerWorkerInternal”的声明
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(32,25): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(35,2): error C2065: “hMsgBoxHook”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(37,3): error C2065: “CBTProc”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(42,1): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(42,25): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(43,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(44,6): error C2065: “hDesktop”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(45,16): error C2065: “hDesktop”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(46,3): error C2065: “hDesktop”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(49,22): error C2065: “hMsgBoxHook”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(51,2): error C3861: “StopInternal”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(52,2): error C3861: “ClearProcess”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(55,1): warning C4508: “{dtor}”: 函数应返回一个值；假定“void”返回类型
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(57,6): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(57,29): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(59,2): error C2065: “hDesktop”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(60,2): error C3861: “UpdateScreenSize”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(62,6): error C3861: “LocateStudentMainLocation”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(62,98): error C2065: “_StudentMainPath”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(65,2): error C3861: “UpdateState”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(66,2): error C3861: “UpdateStudentMainInfo”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(68,2): error C3861: “InitSettings”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(70,6): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(70,29): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(73,2): error C2065: “setAutoIncludeFullWindow”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(74,2): error C2065: “setCkInterval”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(75,2): error C2065: “setAllowGbTop”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(76,6): error C2065: “setCkInterval”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(76,30): error C2065: “setCkInterval”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(76,53): error C2065: “setCkInterval”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(78,6): error C2065: “_StudentMainControlled”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(79,3): error C3861: “SendMessageToVirus”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(81,6): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(81,29): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(83,2): error C2065: “screenWidth”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(84,2): error C2065: “screenHeight”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(87,6): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(87,29): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(89,7): error C2065: “_Running”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(91,3): error C2065: “_Running”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(95,12): error C2065: “hWndMain”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(95,32): error C2065: “setCkInterval”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(95,47): error C2065: “TimerProc”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(96,12): error C2065: “hWndMain”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(96,45): error C2065: “TimerProc”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(98,3): error C3861: “UpdateState”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(102,6): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(102,29): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(104,6): error C2065: “_Running”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(105,3): error C3861: “StopInternal”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(106,3): error C3861: “UpdateState”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(109,6): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(109,29): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(110,6): error C2065: “_Running”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(111,3): error C2065: “_Running”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(112,13): error C2065: “hWndMain”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(113,13): error C2065: “hWndMain”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(117,6): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(117,29): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(120,3): error C2065: “_Callback”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(121,3): error C2065: “hWndMain”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(125,6): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(125,29): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(135,5): error C2065: “_StudentMainControlled”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(137,9): error C2065: “_Callback”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(137,20): error C2065: “_Callback”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(138,5): error C3861: “UpdateState”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(141,5): error C2065: “hWndMain”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(142,5): error C3861: “SendMessageToVirus”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(145,5): error C3861: “RunCk”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(150,6): error C2065: “_StudentMainRunningLock”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(151,6): error C3861: “UpdateState”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(156,5): error C2065: “_Callback”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(159,5): error C2065: “gbFullManual”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(160,16): error C2065: “gbFullManual”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(160,5): error C3861: “ManualFull”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(163,9): error C2065: “_FakeFull”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(163,20): error C3861: “FakeFull”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(164,5): error C2065: “gbFullManual”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(165,16): error C2065: “gbFullManual”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(165,5): error C3861: “ManualFull”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(167,35): error C3861: “ManualTop”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(168,33): error C3861: “ManualTop”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(169,38): error C2065: “_Callback”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(169,49): error C2065: “_Callback”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(173,5): error C3861: “AddFilterdPid”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(175,9): error C2065: “_StudentMainFileLocatedByProcess”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(176,6): error C2065: “_StudentMainFileLocated”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(177,5): error C2065: “_StudentMainPid”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(181,5): error C3861: “UpdateState”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(182,5): error C3861: “UpdateStudentMainInfo”: 找不到标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(202,6): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(202,29): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(204,28): error C2065: “hWndMain”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(207,6): error C2825: 'TrainerWorkerInternal': 当后面跟“::”时必须为类或命名空间
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(207,29): error C2510: “TrainerWorkerInternal”:“::”的左边必须是类/结构/联合
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(209,6): error C2065: “_StudentMainPid”: 未声明的标识符
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainer\TrainerWorker.cpp(209,5): fatal  error C1003: 错误计数超过 100；正在停止编译

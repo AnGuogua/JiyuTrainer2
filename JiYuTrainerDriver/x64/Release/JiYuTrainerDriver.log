@@ -1,0 +1,8 @@
+﻿  Driver.c
+E:\Develop\Windows Kits\10\Include\10.0.22621.0\shared\ntdef.h(197,1): fatal  error C1189: #error:  "No Target Architecture"
+  Monitor.c
+E:\Develop\Windows Kits\10\Include\10.0.22621.0\shared\ntdef.h(197,1): fatal  error C1189: #error:  "No Target Architecture"
+  Protect.c
+E:\Develop\Windows Kits\10\Include\10.0.22621.0\shared\ntdef.h(197,1): fatal  error C1189: #error:  "No Target Architecture"
+  UnExp.c
+E:\Develop\Windows Kits\10\Include\10.0.22621.0\shared\ntdef.h(197,1): fatal  error C1189: #error:  "No Target Architecture"

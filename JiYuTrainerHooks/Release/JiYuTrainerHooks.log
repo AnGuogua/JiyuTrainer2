@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  cpu.c
+  disasm.c
+  disasm_x86.c
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\disasm_x86.c(3741,34): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\disasm_x86.c(3741,152): warning C4474: printf: 格式字符串中传递的参数太多
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\disasm_x86.c(3741,152): message : 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\disasm_x86.c(3768,34): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\disasm_x86.c(3768,152): warning C4474: printf: 格式字符串中传递的参数太多
+D:\信息技术\电脑工具\JiYuTrainer-master\JiYuTrainerHooks\disasm-lib\disasm_x86.c(3768,152): message : 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+  misc.c
+  dllmain.cpp
+  JiYuTrainerHooks.cpp
+  mhook.cpp
+  StringHlp.cpp
+  StringSplit.cpp
+    正在创建库 D:\信息技术\电脑工具\JiYuTrainer-master\Release\JiYuTrainerHooks.lib 和对象 D:\信息技术\电脑工具\JiYuTrainer-master\Release\JiYuTrainerHooks.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 463 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  JiYuTrainerHooks.vcxproj -> D:\信息技术\电脑工具\JiYuTrainer-master\Release\JiYuTrainerHooks.dll
